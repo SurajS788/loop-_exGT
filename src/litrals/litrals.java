@@ -9,5 +9,7 @@ public class litrals {
          System.out.println(a);
         System.out.println(c);
         System.out.println(s);
+        System.out.println("for the git");
+        int git = 25;
     }
 }
