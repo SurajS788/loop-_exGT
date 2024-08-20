@@ -16,6 +16,6 @@ public class operator {
         System.out.println(d);
         System.out.println(e);
         System.out.println(f);
-        System.out.println("this if for git status");
+       
     }
 }
